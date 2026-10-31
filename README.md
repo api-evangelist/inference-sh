@@ -64,5 +64,186 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-inference-sh is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://inference.sh/
+Inference Shell Inc. provides a cloud platform that lets developers run any AI model through a single unified API. The service offers durable execution, human‑in‑the‑loop approval, real‑time observability, and hundreds of integrations. It includes a free tier, pricing plans, comprehensive documentation, and open‑source SDKs, enabling rapid building of production‑grade AI agents.
+
+**Areas:** AI · Machine Learning · Platform · API · Inference
+
+## inference-sh on APIs.io
+
+Everything profiled for inference-sh is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/inference-sh/](https://apis.io/providers/inference-sh/)** — or go straight to one of the APIs or properties below.
+
+### APIs (65)
+
+- [inference-sh Agent Runs API](https://apis.io/apis/inference-sh/inference-sh-agent-runs-api/) — The agent-runs API from inference-sh — 6 operation(s) for agent-runs.
+- [inference-sh Agents API](https://apis.io/apis/inference-sh/inference-sh-agents-api/) — The agents API from inference-sh — 45 operation(s) for agents.
+- [inference-sh API Keys API](https://apis.io/apis/inference-sh/inference-sh-api-keys-api/) — The api-keys API from inference-sh — 4 operation(s) for api-keys.
+- [inference-sh Apps API](https://apis.io/apis/inference-sh/inference-sh-apps-api/) — The apps API from inference-sh — 21 operation(s) for apps.
+- [inference-sh Artifacts API](https://apis.io/apis/inference-sh/inference-sh-artifacts-api/) — The artifacts API from inference-sh — 31 operation(s) for artifacts.
+- [inference-sh Auth API](https://apis.io/apis/inference-sh/inference-sh-auth-api/) — The auth API from inference-sh — 47 operation(s) for auth.
+- [inference-sh Auth Providers API](https://apis.io/apis/inference-sh/inference-sh-auth-providers-api/) — The auth-providers API from inference-sh — 3 operation(s) for auth-providers.
+- [inference-sh Billing API](https://apis.io/apis/inference-sh/inference-sh-billing-api/) — The billing API from inference-sh — 39 operation(s) for billing.
+- [inference-sh Bounties API](https://apis.io/apis/inference-sh/inference-sh-bounties-api/) — The bounties API from inference-sh — 1 operation(s) for bounties.
+- [inference-sh Chats API](https://apis.io/apis/inference-sh/inference-sh-chats-api/) — The chats API from inference-sh — 27 operation(s) for chats.
+- [inference-sh Companies API](https://apis.io/apis/inference-sh/inference-sh-companies-api/) — The companies API from inference-sh — 2 operation(s) for companies.
+- [inference-sh Consent API](https://apis.io/apis/inference-sh/inference-sh-consent-api/) — The consent API from inference-sh — 2 operation(s) for consent.
+- [inference-sh Content API](https://apis.io/apis/inference-sh/inference-sh-content-api/) — The content API from inference-sh — 12 operation(s) for content.
+- [inference-sh Credentials API](https://apis.io/apis/inference-sh/inference-sh-credentials-api/) — The credentials API from inference-sh — 12 operation(s) for credentials.
+- [inference-sh Csp Reports API](https://apis.io/apis/inference-sh/inference-sh-csp-reports-api/) — The csp-reports API from inference-sh — 1 operation(s) for csp-reports.
+- [inference-sh Engines API](https://apis.io/apis/inference-sh/inference-sh-engines-api/) — The engines API from inference-sh — 24 operation(s) for engines.
+- [inference-sh Events API](https://apis.io/apis/inference-sh/inference-sh-events-api/) — The events API from inference-sh — 1 operation(s) for events.
+- [inference-sh Execs API](https://apis.io/apis/inference-sh/inference-sh-execs-api/) — The execs API from inference-sh — 5 operation(s) for execs.
+- [inference-sh F API](https://apis.io/apis/inference-sh/inference-sh-f-api/) — The _f API from inference-sh — 1 operation(s) for _f.
+- [inference-sh Feedback API](https://apis.io/apis/inference-sh/inference-sh-feedback-api/) — The feedback API from inference-sh — 5 operation(s) for feedback.
+- [inference-sh Files API](https://apis.io/apis/inference-sh/inference-sh-files-api/) — The files API from inference-sh — 4 operation(s) for files.
+- [inference-sh Flows API](https://apis.io/apis/inference-sh/inference-sh-flows-api/) — The flows API from inference-sh — 27 operation(s) for flows.
+- [inference-sh Forms API](https://apis.io/apis/inference-sh/inference-sh-forms-api/) — The forms API from inference-sh — 10 operation(s) for forms.
+- [inference-sh Harnesses API](https://apis.io/apis/inference-sh/inference-sh-harnesses-api/) — The harnesses API from inference-sh — 1 operation(s) for harnesses.
+- [inference-sh Health API](https://apis.io/apis/inference-sh/inference-sh-health-api/) — The health API from inference-sh — 1 operation(s) for health.
+- [inference-sh Integrations API](https://apis.io/apis/inference-sh/inference-sh-integrations-api/) — The integrations API from inference-sh — 2 operation(s) for integrations.
+- [inference-sh Interrupts API](https://apis.io/apis/inference-sh/inference-sh-interrupts-api/) — The interrupts API from inference-sh — 1 operation(s) for interrupts.
+- [inference-sh Knowledge API](https://apis.io/apis/inference-sh/inference-sh-knowledge-api/) — The knowledge API from inference-sh — 17 operation(s) for knowledge.
+- [inference-sh Marketplace API](https://apis.io/apis/inference-sh/inference-sh-marketplace-api/) — The marketplace API from inference-sh — 2 operation(s) for marketplace.
+- [inference-sh MCP API](https://apis.io/apis/inference-sh/inference-sh-mcp-api/) — The _mcp API from inference-sh — 3 operation(s) for _mcp.
+- [inference-sh MCP Connections API](https://apis.io/apis/inference-sh/inference-sh-mcp-connections-api/) — The mcp-connections API from inference-sh — 2 operation(s) for mcp-connections.
+- [inference-sh MCP Servers API](https://apis.io/apis/inference-sh/inference-sh-mcp-servers-api/) — The mcp-servers API from inference-sh — 16 operation(s) for mcp-servers.
+- [inference-sh MCP UI Pages API](https://apis.io/apis/inference-sh/inference-sh-mcp-ui-pages-api/) — The mcp-ui-pages API from inference-sh — 1 operation(s) for mcp-ui-pages.
+- [inference-sh Menus API](https://apis.io/apis/inference-sh/inference-sh-menus-api/) — The menus API from inference-sh — 4 operation(s) for menus.
+- [inference-sh Models API](https://apis.io/apis/inference-sh/inference-sh-models-api/) — The models API from inference-sh — 2 operation(s) for models.
+- [inference-sh Notifications API](https://apis.io/apis/inference-sh/inference-sh-notifications-api/) — The notifications API from inference-sh — 2 operation(s) for notifications.
+- [inference-sh OAUTH Callback API](https://apis.io/apis/inference-sh/inference-sh-oauth-callback-api/) — The oauth-callback API from inference-sh — 1 operation(s) for oauth-callback.
+- [inference-sh Openapi.json API](https://apis.io/apis/inference-sh/inference-sh-openapi-json-api/) — The openapi.json API from inference-sh — 1 operation(s) for openapi.json.
+- [inference-sh Orgs API](https://apis.io/apis/inference-sh/inference-sh-orgs-api/) — The orgs API from inference-sh — 19 operation(s) for orgs.
+- [inference-sh Pages API](https://apis.io/apis/inference-sh/inference-sh-pages-api/) — The pages API from inference-sh — 7 operation(s) for pages.
+- [inference-sh Pins API](https://apis.io/apis/inference-sh/inference-sh-pins-api/) — The pins API from inference-sh — 3 operation(s) for pins.
+- [inference-sh Plans API](https://apis.io/apis/inference-sh/inference-sh-plans-api/) — The plans API from inference-sh — 1 operation(s) for plans.
+- [inference-sh Projects API](https://apis.io/apis/inference-sh/inference-sh-projects-api/) — The projects API from inference-sh — 3 operation(s) for projects.
+- [inference-sh Publications API](https://apis.io/apis/inference-sh/inference-sh-publications-api/) — The publications API from inference-sh — 2 operation(s) for publications.
+- [inference-sh Ready API](https://apis.io/apis/inference-sh/inference-sh-ready-api/) — The ready API from inference-sh — 1 operation(s) for ready.
+- [inference-sh Ref Routes API](https://apis.io/apis/inference-sh/inference-sh-ref-routes-api/) — The ref-routes API from inference-sh — 1 operation(s) for ref-routes.
+- [inference-sh Relay API](https://apis.io/apis/inference-sh/inference-sh-relay-api/) — The relay API from inference-sh — 1 operation(s) for relay.
+- [inference-sh Remotes API](https://apis.io/apis/inference-sh/inference-sh-remotes-api/) — The remotes API from inference-sh — 18 operation(s) for remotes.
+- [inference-sh Rules API](https://apis.io/apis/inference-sh/inference-sh-rules-api/) — The rules API from inference-sh — 1 operation(s) for rules.
+- [inference-sh Sandboxes API](https://apis.io/apis/inference-sh/inference-sh-sandboxes-api/) — The sandboxes API from inference-sh — 5 operation(s) for sandboxes.
+- [inference-sh Search API](https://apis.io/apis/inference-sh/inference-sh-search-api/) — The search API from inference-sh — 3 operation(s) for search.
+- [inference-sh Secrets API](https://apis.io/apis/inference-sh/inference-sh-secrets-api/) — The secrets API from inference-sh — 6 operation(s) for secrets.
+- [inference-sh Session API](https://apis.io/apis/inference-sh/inference-sh-session-api/) — The session API from inference-sh — 1 operation(s) for session.
+- [inference-sh Sessions API](https://apis.io/apis/inference-sh/inference-sh-sessions-api/) — The sessions API from inference-sh — 3 operation(s) for sessions.
+- [inference-sh Skills API](https://apis.io/apis/inference-sh/inference-sh-skills-api/) — The skills API from inference-sh — 20 operation(s) for skills.
+- [inference-sh Sockets API](https://apis.io/apis/inference-sh/inference-sh-sockets-api/) — The sockets API from inference-sh — 4 operation(s) for sockets.
+- [inference-sh Store API](https://apis.io/apis/inference-sh/inference-sh-store-api/) — The store API from inference-sh — 33 operation(s) for store.
+- [inference-sh T API](https://apis.io/apis/inference-sh/inference-sh-t-api/) — The _t API from inference-sh — 1 operation(s) for _t.
+- [inference-sh Tasks API](https://apis.io/apis/inference-sh/inference-sh-tasks-api/) — The tasks API from inference-sh — 15 operation(s) for tasks.
+- [inference-sh Teams API](https://apis.io/apis/inference-sh/inference-sh-teams-api/) — The teams API from inference-sh — 24 operation(s) for teams.
+- [inference-sh Trigger Fires API](https://apis.io/apis/inference-sh/inference-sh-trigger-fires-api/) — The trigger-fires API from inference-sh — 3 operation(s) for trigger-fires.
+- [inference-sh Trigger Sources API](https://apis.io/apis/inference-sh/inference-sh-trigger-sources-api/) — The trigger-sources API from inference-sh — 1 operation(s) for trigger-sources.
+- [inference-sh Triggers API](https://apis.io/apis/inference-sh/inference-sh-triggers-api/) — The triggers API from inference-sh — 6 operation(s) for triggers.
+- [inference-sh Users API](https://apis.io/apis/inference-sh/inference-sh-users-api/) — The users API from inference-sh — 22 operation(s) for users.
+- [inference-sh Vaults API](https://apis.io/apis/inference-sh/inference-sh-vaults-api/) — The vaults API from inference-sh — 6 operation(s) for vaults.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Inference Sh Agentic Access](https://apis.io/agentic-access/inference-sh/inference-sh-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [inference-sh API Rules](https://apis.io/rules/inference-sh/inference-sh-rules/)
+
+#### Security (4)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Inference Sh Authentication](https://apis.io/security/inference-sh/inference-sh-authentication/)
+- [Inference Sh Domain Security](https://apis.io/security/inference-sh/inference-sh-domain-security/)
+- [Inference Sh Trust Center](https://apis.io/security/inference-sh/inference-sh-trust-center/)
+- [Inference Sh Vulnerability Disclosure](https://apis.io/security/inference-sh/inference-sh-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Inference Sh Plans Pricing](https://apis.io/plans/inference-sh/inference-sh-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Inference Sh Rate Limits](https://apis.io/rate-limits/inference-sh/inference-sh-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://inference.sh/)
+- [Documentation](https://inference.sh/docs)
+- [Getting started](https://inference.sh/docs/getting-started/introduction.md)
+- [API reference](https://inference.sh/docs)
+- [Pricing](https://inference.sh/pricing)
+- [Blog](https://inference.sh/blog)
+- [Security](https://inference.sh/security)
+- [Compliance](https://inference.sh/trust)
+- [Terms of service](https://inference.sh/terms)
+- [Privacy policy](https://inference.sh/privacy)
+- [GitHub](https://github.com/inference-sh)
+
+## API Evangelist rating
+
+**Kin Score 64.1** — strong · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 35.5 |
+| Contract governance | 65.5 |
+| Operational transparency | 44.2 |
+| Developer ergonomics | 73.1 |
+| Access clarity | 88.9 |
+
+**Agent readiness 44.0** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | derived (partial credit) |
+| Error Semantics | documented (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | — |
+
+**Regulatory alignment 32.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/inference-sh/](https://apis.io/providers/inference-sh/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for inference-sh: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/inference-sh/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
